@@ -5,7 +5,7 @@ gem 'sinatra-activerecord', :require => 'sinatra/activerecord'
 
 gem 'sinatra'
 gem 'sqlite3', '~>1.3.6'
-gem 'tux'
+gem 'tux', '~> 0.3.0'
 gem 'pry'
 gem 'pry-nav'
 gem 'rake'
