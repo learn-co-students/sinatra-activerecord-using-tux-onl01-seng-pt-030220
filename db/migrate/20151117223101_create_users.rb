@@ -1,4 +1,5 @@
 class CreateUsers < ActiveRecord::Migration
+  #creates table
   def change
     create_table :users do |t|
       t.string :name
