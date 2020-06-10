@@ -5,5 +5,6 @@ class CreateUsers < ActiveRecord::Migration
       t.string :email
       t.string :fav_icecream
     end
+    
   end
 end
